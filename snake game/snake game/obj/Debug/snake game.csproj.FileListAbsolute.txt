@@ -1,0 +1,10 @@
+D:\projeler\snake game\snake game\bin\Debug\snake game.exe.config
+D:\projeler\snake game\snake game\bin\Debug\snake game.exe
+D:\projeler\snake game\snake game\bin\Debug\snake game.pdb
+D:\projeler\snake game\snake game\obj\Debug\snake game.csproj.AssemblyReference.cache
+D:\projeler\snake game\snake game\obj\Debug\snake_game.Form1.resources
+D:\projeler\snake game\snake game\obj\Debug\snake_game.Properties.Resources.resources
+D:\projeler\snake game\snake game\obj\Debug\snake game.csproj.GenerateResource.cache
+D:\projeler\snake game\snake game\obj\Debug\snake game.csproj.CoreCompileInputs.cache
+D:\projeler\snake game\snake game\obj\Debug\snake game.exe
+D:\projeler\snake game\snake game\obj\Debug\snake game.pdb
